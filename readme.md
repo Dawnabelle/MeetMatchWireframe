@@ -20,6 +20,9 @@ Wireframes in Sketch for our UI Team Week Project.
 #### Home/Landing Page
 <img src="img/Home.png" alt="spock with visor" width="300">
 
+#### My Events
+<img src="img/My-Events.png" alt="spock with visor" width="300">
+
 ### Setup/Installation Requirements
 * Read the readme
 * More to come
