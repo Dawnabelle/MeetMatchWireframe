@@ -28,6 +28,7 @@ Wireframes in Sketch for our UI Team Week Project.
 
 #### Logo
 <img src="img/mm-logo.png" alt="meet match logo" width="300">
+<img src="img/mm-logo-orange.png" alt="meet match logo" width="300">
 <img src="img/mm-logo-c.png" alt="meet match logo" width="300">
 
 #### Favicon
