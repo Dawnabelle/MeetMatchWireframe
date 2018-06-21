@@ -32,7 +32,10 @@ Wireframes in Sketch for our UI Team Week Project.
 <img src="img/mm-logo-c.png" alt="meet match logo" width="300">
 
 #### Favicon
-<img src="img/mm-o-favicon.ico" alt="meet match friends" width="300">
+<img src="img/mm-o-favicon.jpg" alt="meet match friends" width="300">
+
+#### Screen Shot of Site
+<img src="img/mm-ss.png" alt="meet match friends" width="300">
 
 ### Setup/Installation Requirements
 * Read the readme
